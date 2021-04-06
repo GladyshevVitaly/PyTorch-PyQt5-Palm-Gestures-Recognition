@@ -1,2 +1,5 @@
-# PyTorch-PyQt5-Palm-Gestures-Recognition
-PyTorch PyQt5 Приложение Распознавание жестов
+# Приложение Распознавание жестов
+
+Язык: Python
+Фреймворк DL: PyTorch
+Фреймворк приложения: PyQt5
