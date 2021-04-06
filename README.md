@@ -6,3 +6,8 @@ __Язык: Python__
 
 ## Подготовка модели для приложения
 https://github.com/GladyshevVitaly/PyTorch-PyQt5-Palm-Gestures-Recognition/blob/main/palm_gestures_recognition_model_prep.ipynb
+
+## Реализация приложения
+https://github.com/GladyshevVitaly/PyTorch-PyQt5-Palm-Gestures-Recognition/blob/main/palm_gestures_recognition.py
+
+## Внешний вид и пример выполнения
